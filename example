@@ -1,6 +1,6 @@
 {
   "datasetInfo": {
-    "description": "This dataset contains Q&A pairs related to SEO, crawled from various websites and ranked based on user feedback.",
+    "description": ,
     "source": "Multiple websites",
     "crawlDate": "2023-05-16",
     "collectionMethod": "Web crawling with user feedback ranking",
