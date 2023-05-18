@@ -3,6 +3,8 @@ AI.txt: A Guide for Preparing Website Content for Large Language Models
 Overview
 AI.txt is a structured approach to preparing and presenting website content for consumption by Large Language Models (LLMs). It involves extracting relevant text, transforming it into a structured format, and cleaning it to remove non-relevant content. The goal is to enhance the model's understanding of the content and improve its ability to generate accurate and relevant responses.
 
+In essence, AI.txt is more akin to RSS feeds than robots.txt. While robots.txt is used by webmasters to instruct web robots about which areas of a site should not be processed or scanned, RSS feeds provide a method of subscribing to the content of a website. Similarly, AI.txt serves as a guide for LLMs to efficiently consume and understand web content, akin to subscribing to the essence of a website's content.
+
 For LLM vendors, AI.txt provides a standardized and efficient way to consume web content, improving the training process and the performance of their models. It allows them to prioritize important information, reduce bias in their training data, and continuously adapt to changes in the relevance or accuracy of the information.
 
 For content publishers, AI.txt offers a way to make their content more accessible and useful to LLMs. It allows them to provide direct feedback on the value of their content, increase their visibility in the AI ecosystem, and potentially receive compensation for their data.
@@ -32,12 +34,12 @@ For content publishers, ranking and user engagement can increase their visibilit
 Additional Data Offerings
 Additional offerings include data cleaning, balancing the data, privacy-preserving techniques, data augmentation, and the use of metadata. These techniques ensure the quality of the data and the performance of the model.
 
-For LLM vendors, these additional offerings can improve the quality of the training data, enhance the model's performance, and ensure the privacy and legal compliance of the data.
+For LLM vendors, these additional offerings can improve the quality of the trainingdata, enhance the model's performance, and ensure the privacy and legality of the data.
 
-For content publishers, these additional offerings can improve the quality and relevance of their structured content, increase their visibility, and ensure the privacy and legal compliance of their data.
+For content publishers, these additional offerings can increase the quality and visibility of their content, ensure the privacy of their data, and potentially increase their compensation.
 
-Website Data
-The website data section of the AI.txt file provides specific metadata about the website from which the content is extracted. This includes the URL of the website,the frequency of crawling, suggested pages for crawling, compression techniques used, privacy and legal considerations, and the compensation model. This information is crucial for the LLM to understand the source and context of the content. It also aids in the efficient and ethical crawling of the website content.
+Website Metadata
+Website metadata is included in the AI.txt file to provide additional context about the source of the content. This includes information about the website, the frequency of crawling, suggested pages for crawling, compression techniques used, privacy and legal considerations, and the compensation model. This information is crucial for the LLM to understand the source and context of the content. It also aids in the efficient and ethical crawling of the website content.
 
 For LLM vendors, this website-specific metadata can provide valuable context for the structured content, enhance the model's understanding of the source of the content, and aid in the efficient and ethical crawling of the website content.
 
